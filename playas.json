@@ -1,0 +1,469 @@
+{"directorios": {
+    "directorio": [
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Playas",
+                    "id": 416,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Acceso por la GI-2,desviándonos a la altura de la ermita de la Providencia.\r\nFrecuentada por nudistas-naturistas.Afluencia escasa.Arenal escaso.Baño con precaución, teniendo en cuenta su fondo rocoso.350 metros.Papeleras y contenedores. Accesos urbanizados (escalones).\r\nLíneas de autobús:14 y 25.Pesca submarina y buceo autónomo.\r\nServicio de vigilancia: 1 vigilante.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Este de Gijón, por la Ctra. GI-2.",
+                {
+                    "content": "Este de Gijón, por la Ctra. GI-2.",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6917/250x194_v1_DirectorioPlayasserin.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1232,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.551044 -5.611664",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa de Serín",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1232-playa-de-serin",
+            "send": "fecha-actualizacion2015-03-13 09:50:24 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1232-playa-de-serin",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Playas",
+                    "id": 416,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Acceso por la carretera GI-2 a la Providencia.Arenal escaso.Frecuentada por nudistas-naturistas.Afluencia variable.Baño con precaución (se aconseja en el margen derecho, teniendo precaución con su fondo rocoso).500 metros.Aparcamiento.Duchas y lavapies.Papeleras y contenedores.Accesos urbanizados.Líneas de autobús: 14 y 25.Zonas de baño vigiladas y primeros auxilios.  Senderismo, pesca submarina, buceo autónomo y surf y windsurf.1 vigilante.<br/><br/><p style=\"text-align: left;\" class=\"destacado2\"><span style=\"font-weight: bold;\"><a href=\"http://www.gijon.info/noticias/show/16016-la-playa-de-penarrubia-esta-cerrada-al-publico-por-grave-riesgo-de-desprendimientos\" title=\"Ir a http://www.gijon.info/noticias/show/16016-la-playa-de-penarrubia-esta-cerrada-al-publico-por-grave-riesgo-de-desprendimientos\" rel=\"external\"><br/>AVISO<\/a><\/span><br/>El acceso a la playa está temporalmente prohibido por riesgo de desprendimientos <br/><br/><\/p>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Ctra. GI-2 a la Providencia",
+                {
+                    "content": "Ctra. GI-2 a la Providencia",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1231,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.552001 -5.623573",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa de Peñarrubia",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1231-playa-de-penarrubia",
+            "send": "fecha-actualizacion2015-03-13 08:53:27 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1231-playa-de-penarrubia",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Playas",
+                "id": 416,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Se accede desde la GI-2 por desvíos señalizados, uno peatonal y otro rodado. Está situada en la desembocadura del arroyo de la Ñora, que la divide entre los concejos de Gijón y Villaviciosa. Tiene una longitud de unos 150 m. Existe un sendero de corto recorrido (PR AS.170), de 4,5 km., que discurre a la vera del arroyo hasta su desembocadura. Tiene un mirador.150 metros.Se accede desde la GI-2 por desvíos señalizados, uno peatonal y otro rodado.Cuenta con servicios higiénicos: duchas, aseos, papeleras y contenedores.Servicios de primeros auxilios, aparcamiento.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Desde la Ctra. GI-2 por desvíos señalizados, uno peatonal y otro rodado",
+                {
+                    "content": "Desde la Ctra. GI-2 por desvíos señalizados, uno peatonal y otro rodado",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6916/243x119_v1_DirectorioPlayasplayadelanora.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1230,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.547428 -5.59011",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa de la Ñora",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1230-playa-de-la-nora",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas",
+            "url": "http://www.gijon.es/directorios/show/1230-playa-de-la-nora",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Playas",
+                    "id": 416,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Prolongación de la playa de los Mayanes. Está formada por rocas y cantos. También conocida como playa del Rinconín.\r\nArenal extenso según mareas.Afluencia variable.Baño con precaución.  400 metros.Aparcamiento.Duchas.  Accesos urbanizados.Líneas de autobús: 14 y 25.Zonas de baño vigiladas.\r\nPrimeros auxilios.Senderismo, pesca submarina, cicloturismo y surf y bodyboard.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Paseo de Rosario Acuña",
+                {
+                    "content": "Paseo de Rosario Acuña",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6915/250x188_v1_DirectorioPlayascervigon.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1229,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.548483 -5.639366",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa del Cervigón",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1229-playa-del-cervigon",
+            "send": "fecha-actualizacion2015-03-12 12:59:02 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1229-playa-del-cervigon",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Playas",
+                    "id": 416,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Inaugurada en 1995, es la gran playa del oeste de la ciudad, entre los barrios de El Natahoyo y La Calzada. En sus inmediaciones podemos encontrar grandes zonas verdes.\r\nAfluencia alta.Baño óptimo.Arenal extenso estable.Pleamar: 22.800 m2 y bajamar: 106.000 m2.  500 metros  Aparcamiento.Zonas de juegos infantiles.Duchas, lavapies, fuentes, aseos.Papeleras, contenedores y limpieza diaria.Acceso urbanizadoLíneas de autobús: 1, 4, 9, 12, 16, 21 y M1\r\nEdificio de Salvamento, zonas de baño vigiladas y primeros auxilios.Voley playa y kayak de mar.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. del Príncipe de Asturias",
+                {
+                    "content": "Avda. del Príncipe de Asturias",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6914/250x188_v1_DirectorioPlayasarbeyal.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1228,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.544326 -5.693686",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa del Arbeyal",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1228-playa-del-arbeyal",
+            "send": "fecha-actualizacion2015-03-11 14:37:39 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1228-playa-del-arbeyal",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Playas",
+                    "id": 416,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "La playa más tradicional y la de mayor tamaño de Gijón, destino clásico de bañistas en todas las temporadas. En forma de concha, su paseo de casi tres kilómetros es frecuentado a cualquier hora.\r\nAfluencia alta.Baño con precaución (Baño óptimo escaleras 4-5).3000 metros. Parking.Oficinas de información turística en temporada (Escalerona y Puente del Piles).Información en accesos.Policía de playa (escalera 12).Duchas, lavapies, fuentes y aseos.Papeleras, contenedores y limpieza diaria.Guardarropa y taquillas (escalera 13).Alquiler de tumbonas.Accesos urbanizados.Líneas de autobús: 4, 10, 14, 20 y 25. Edificio de salvamento (escalera 12).Zonas de baño vigiladas.Megafonía e información.Primeros auxilios, servicio médico y ambulancia.  Fútbol playa (escalera 4, marea baja), voley (escalera 15), kayak de mar, winsurf y surf y bodyboard. Zona deportiva: escaleras 8-10.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. Rufo García Rendueles  (Paseo Marítimo)",
+                {
+                    "content": "Avda. Rufo García Rendueles  (Paseo Marítimo)",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6913/288x216_v1_DirectorioPlayasIMG_4779.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1227,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.540694 -5.648003",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa de San Lorenzo",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1227-playa-de-san-lorenzo",
+            "send": "fecha-actualizacion2015-03-11 12:23:33 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1227-playa-de-san-lorenzo",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Playas",
+                    "id": 416,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<div align=\"justify\">Situada junto al Puerto Deportivo. Playa abrigada por su orientación que fue recuperada en la década de los 90. Tiene un paseo de unos 500 m. de longitud.\r\nPlaya accesible a personas con discapacidad y/o movilidad reducida. Afluencia alta. Baño óptimo. Arenal extenso estable. Plemar: 60.000 m2 y bajamar: 140.000 m2. A 500 metros  Parkings. Zonas de juegos infantiles. Oficina de información turística todo el año. Duchas, lavapies, fuentes y aseos. Papeleras, contenedores y limpieza diaria. Alquiler de tumbonas.   Accesos urbanizados. Líneas de autobús: 1 , 4, 6, 12, 16 y 21. Edificio de salvamento. Zonas de baño vigiladas.\r\nMegafonía e información. Primeros auxilios.\r\nDeportes: Patinaje, pesca submarina, cicloturismo, voley, kayak de mar y windsurf. Zona accesible, situada en el Dique Este de la Playa de Poniente: es un equipamiento social dotado de: 2 aseos y duchas adaptadas, 2 vestuarios adaptados, taquillas con compartimentos individuales, biblioplaya con servicio de préstamo de libros en braille, pavimento podotáctil, plataformas de madera que facilita el acceso al agua, además del servicio de sillas y muletas anfibias, accesorios flotantes (chalecos, brazaletes, cinturones, collares, macarrones, etc.,)<br/><br/>     <br/><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/Rodríguez San Pedro",
+                {
+                    "content": "C/Rodríguez San Pedro",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6912/250x188_v1_DirectorioPlayasponiente.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1226,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.542756 -5.672829",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa de Poniente",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1226-playa-de-poniente",
+            "send": "fecha-actualizacion2015-08-13 13:20:02 +0200",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1226-playa-de-poniente",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Playas",
+                    "id": 416,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Medio Ambiente",
+                    "id": 193,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Situada en la prolongación del arenal de San Lorenzo.Playa formada por rocas y cantos.\r\nArenal extenso según mareas.Afluencia variable.Baño con precaución.300 metros.  Aparcamiento.Duchas.Aseos.Papeleras y contenedores.  Accesos urbanizados.Líneas de autobús: 14 y 25.  Zonas de baño vigiladas.\r\nPrimeros auxilios.Senderismo, pesca submarina, cicloturismo y surf y bodyboard.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. Jose García Bernardo",
+                {
+                    "content": "Avda. Jose García Bernardo",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6911/250x188_v1_DirectorioPlayasmayanes.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1225,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.54531 -5.6431",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa de los Mayanes",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1225-playa-de-los-mayanes",
+            "send": "fecha-actualizacion2015-03-12 12:16:01 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas,Medio Ambiente",
+            "url": "http://www.gijon.es/directorios/show/1225-playa-de-los-mayanes",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Playas",
+                "id": 416,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Utilizada como refugio de barcas y pescadores.\r\nArenal escaso.Afluencia escasa.Baño con precaución.75 metros.Acceso muy dificultoso, no urbanizado.\r\nLíneas de autobús: 14 y 25.  No posee servicios.  Pesca submarina y buceo autónomo. Para la práctica de deportes náuticos se aconseja acceder a ella mediente embarcación.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Este de la playa de Serín",
+                {
+                    "content": "Este de la playa de Serín",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6910/200x150_v1_DirectorioPlayascagonera.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 1224,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.549396 -5.608188",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa de La Cagonera",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1224-playa-de-la-cagonera",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas",
+            "url": "http://www.gijon.es/directorios/show/1224-playa-de-la-cagonera",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Playas",
+                "id": 416,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Zona este de Gijón",
+                {
+                    "content": "Zona este de Gijón",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "horario": {},
+            "identificador": 1223,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.547732 -5.598103",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Playa de Estaño",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1223-playa-de-estano",
+            "send": "fecha-actualizacion2014-01-22 12:02:51 +0100",
+            "telefono": {"rdfa-property": "http://www.w3.org/2002/12/cal#tel"},
+            "tipo": "Playas",
+            "url": "http://www.gijon.es/directorios/show/1223-playa-de-estano",
+            "web": ""
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}
